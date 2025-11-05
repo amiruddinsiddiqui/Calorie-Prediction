@@ -1,5 +1,7 @@
 # 🍽️ Calorie Prediction using Nutrition5k Dataset
-
+---
+## Dataset: [Google Nutrition5k](https://github.com/google-research-datasets/Nutrition5k)
+---
 ## 📖 Overview
 This project predicts the **calorie content of food images** using deep learning and the **Google Nutrition5k dataset**.  
 It applies **computer vision and regression-based learning** to estimate nutritional values directly from food images, aiming to make nutrition tracking more convenient and data-driven.
