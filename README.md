@@ -23,7 +23,7 @@ This project explores how **AI models can automatically estimate calories** from
 
 ---
 
-## 📊 Results
+## 📊 Results after training for 20 epochs
 | Metric | Value |
 |---------|--------|
 | **Validation Loss (MSE)** | **13811.30** |
